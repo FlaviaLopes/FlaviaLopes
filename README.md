@@ -27,8 +27,9 @@ src="https://img.shields.io/badge/Freelancer_-ff69b4?style=for-the-badge?&logo=f
 
 <div style="width:50%; margin:auto;">
 <code>
-    class LopesFlavia(DeveloperGirl): 
-                  
+     
+     class LopesFlavia(DeveloperGirl):  
+     
         It implements a python developer. The LopesFlavia object contains lots of interests.
         :type arg: Drink
         :param `drink`: The variable argument is used as fuel.
@@ -52,4 +53,6 @@ src="https://img.shields.io/badge/Freelancer_-ff69b4?style=for-the-badge?&logo=f
     dev.interests = 'Inteligência Artificial,Ciência de Dados,Machine Learning,Flask,Django'.split(',')
 </code>
 </div>
+<a alt="Flávia Lopes's github stats" href="https://github.com/FlaviaLopes"><img align="left" src="https://github-readme-stats.vercel.app/api?username=FlaviaLopes&show_icons=true&theme=dark"></a>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlaviaLopes&layout=compact&hide=html&show_icons=true&theme=dark" alt="FláviaLopes" />
 </div>

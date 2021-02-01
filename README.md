@@ -38,7 +38,7 @@ src="https://img.shields.io/badge/Freelancer_-ff69b4?style=for-the-badge?&logo=f
         
                   
         def __init__(self, drink):
-            super(LopesFlavia, self).__init__()
+            super().__init__(drink)
             self.__interests = set()
         
         @property
@@ -50,7 +50,7 @@ src="https://img.shields.io/badge/Freelancer_-ff69b4?style=for-the-badge?&logo=f
             self.__interests = set(x)
 
     dev = LopesFlavia('Camelia sinensis')
-    dev.interests = 'Inteligência Artificial,Ciência de Dados,Machine Learning,Flask,Django'.split(',')
+    dev.interests = 'Inteligência Artificial,Ciência de Dados,Python,Web,Clean Code,Machine Learning'.split(',')
 </code>
 </div>
 <a alt="Flávia Lopes's github stats" href="https://github.com/FlaviaLopes"><img align="left" src="https://github-readme-stats.vercel.app/api?username=FlaviaLopes&show_icons=true&theme=dark"></a>
